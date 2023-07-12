@@ -1,0 +1,3 @@
+/home/manuberea/RC2023/OfflineMessenger/cmake-build-debug/CMakeFiles/OfflineMessenger.dir
+/home/manuberea/RC2023/OfflineMessenger/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/manuberea/RC2023/OfflineMessenger/cmake-build-debug/CMakeFiles/rebuild_cache.dir

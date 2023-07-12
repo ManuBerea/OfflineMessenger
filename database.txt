@@ -1,0 +1,5 @@
+manu:parola
+emi:qwerty
+kiki:miki
+lola:zola
+zizi:mimi
